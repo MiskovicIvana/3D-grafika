@@ -15,6 +15,10 @@ Model vlaka izrađen je samostalno po uzoru na Thompsonov dvocilindrični model 
 5. Dodavanje zvuka i animacija
 
 
+## Napomena
+Video animacija postavljena je na youtube kanal te joj je omogućen pristup preko sljedeće poveznice: https://youtu.be/B0vAJ49NSXg
+
+
 ## Autori
 Ivana Mišković
 Gabriela Del-Vechio
